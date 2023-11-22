@@ -1,6 +1,6 @@
 # tls cipher grabber
 
-this little script is like a treasure map for tls cipher suites. it dives into the vast ocean of ciphersuite.info and brings back pearls of info about tls cipher suites, sorting them into neat piles of 'secure', 'weak', and 'not-so-great'.
+this little script is like a treasure map for tls cipher suites. it dives into the ocean of ciphersuite.info and brings back pearls of info about tls cipher suites, sorting them into neat piles of 'secure', 'weak', and 'not-so-great'.
 
 ## what's this all about?
 
